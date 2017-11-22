@@ -1,4 +1,4 @@
-# restrict-media-library-access-
+# Restrict Media Library Access
 
 This plugin restricts access for Authors and Contributors so they can only see their own Media Library uploads.
 
